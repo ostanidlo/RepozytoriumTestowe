@@ -3,4 +3,6 @@ def dsad():
 
 def operacja():
     return 1
-print(operacja())
+
+def mnozenie(x,y):
+    return (x*y)
